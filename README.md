@@ -1,4 +1,4 @@
-main.py:
+main.py :
 
     the program includes six conditions for six arguments given to the command line
     example of usage: 
