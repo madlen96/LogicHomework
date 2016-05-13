@@ -1,7 +1,7 @@
 main.py :
     the program includes six conditions for six arguments given to the command line
     example of usage: 
-    python main.py 1 2 3 4 5 6
+    python main.py 1 2 3 4 5 6 
 
 negated.py :
     negated main.py
